@@ -94,6 +94,18 @@ This project helped me practice:
 
 ---
 
+## Learning Goals
+
+This project was built to practice writing clean Python code by using:
+
+- Modular functions
+- Meaningful variable names
+- Input validation
+- Type hints
+- Docstrings
+- Secure password generation using the `secrets` module
+- Git and GitHub version control
+
 ## Future Improvements
 
 - Save generated passwords to a file
