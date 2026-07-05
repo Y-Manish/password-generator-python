@@ -150,7 +150,6 @@ Currently learning:
 - Python
 - Data Structures
 - Algorithms
-- Software Development
 - Git & GitHub
 
 ---
